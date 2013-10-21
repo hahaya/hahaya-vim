@@ -3,7 +3,7 @@ hahaya's vim setting and plugins,I use it on Linux,More information please look 
 
 # Install/Useage #
         git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle  
-        git clone https://github.com/hahaya/hahaya-vim  
+        git clone https://github.com/hahaya/hahaya-vim.git  
         cd hahaya-vim  
         cp .vimrc ~/.vimrc  
         vim  
@@ -13,20 +13,20 @@ hahaya's vim setting and plugins,I use it on Linux,More information please look 
 In order to use YouCompleteMe,you should build it first,please look this:[http://hahaya.github.io/2013/07/29/build-YouCompleteMe.html](http://hahaya.github.io/2013/07/29/build-YouCompleteMe.html)
 
 # Plugins #
-1. vundle --- a vim plugin manager.Home Page:[https://github.com/gmarik/vundle](https://github.com/gmarik/vundle)  
-2. vim-powerline --- create better-looking vim statuslines.Home Page:[https://github.com/Lokaltog/vim-powerline](https://github.com/Lokaltog/vim-powerline)  
-3. The-NERD-tree --- allow you explore your filesystem and to open files and directories.Home Page:[https://github.com/vim-scripts/The-NERD-tree](https://github.com/vim-scripts/The-NERD-tree)  
-4. tagbar --- browse the tags of source code files.Home Page:[https://github.com/majutsushi/tagbar](https://github.com/majutsushi/tagbar)  
-5. a.vim --- quick switch between source files and header files. Home Page:[https://github.com/vim-scripts/a.vim](https://github.com/vim-scripts/a.vim)  
-6. ctrlp.vim --- Full path fuzzy file,buffer,tag...finder for vim.Home Page:[https://github.com/kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)  
-7. delimitMate --- provides automatic closing of quotes,parenthesis,brackets and so on.Home Page:[https://github.com/Raimondi/delimitMate](https://github.com/Raimondi/delimitMate)  
-8. solarized --- solarized colorscheme for vim.Home Page:[https://github.com/altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)  
-9. molokai --- molokai colorscheme for vim.Home Page:[https://github.com/tomasr/molokai](https://github.com/tomasr/molokai)  
-10. indentLine --- display thin vertical lines at each indentation level for code indented with spaces. Home Page:[https://github.com/Yggdroot/indentLine](https://github.com/Yggdroot/indentLine)  
-11. vim-trailing-whitespace --- this plugin causes all trailing whitespace to be highlighted in red.Home Page:[https://github.com/bronson/vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace)  
-12. vim-markdown --- syntax highlighting,matching rules and mappings for markdown.Home Page:[https://github.com/plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)  
-13. vim-golang --- vim plugins for golang.Home Page:[jnwhiteh/vim-golang](jnwhiteh/vim-golang)  
-14. YouCompleteMe --- a code completion engine for vim.Home Page:[https://github.com/Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe)  
+1. [vundle](https://github.com/gmarik/vundle) --- a vim plugin manager.  
+2. [vim-powerline](https://github.com/Lokaltog/vim-powerline) --- create better-looking vim statuslines.  
+3. [The-NERD-tree](https://github.com/vim-scripts/The-NERD-tree) --- allow you explore your filesystem and to open files and directories.  
+4. [tagbar](https://github.com/majutsushi/tagbar) --- browse the tags of source code files.  
+5. [a.vim](https://github.com/vim-scripts/a.vim) --- quick switch between source files and header files.  
+6. [ctrlp.vim](https://github.com/kien/ctrlp.vim) --- Full path fuzzy file,buffer,tag...finder for vim.  
+7. [delimitMate](ttps://github.com/Raimondi/delimitMate) --- provides automatic closing of quotes,parenthesis,brackets and so on.  
+8. [solarized](https://github.com/altercation/vim-colors-solarized) --- solarized colorscheme for vim.  
+9. [molokai](https://github.com/tomasr/molokai) --- molokai colorscheme for vim.  
+10. [indentLine](https://github.com/Yggdroot/indentLine) --- display thin vertical lines at each indentation level for code indented with spaces.  
+11. [vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace) --- this plugin causes all trailing whitespace to be highlighted in red.  
+12. [vim-markdown](https://github.com/plasticboy/vim-markdown) --- syntax highlighting,matching rules and mappings for markdown.  
+13. [vim-golang](https://github.com/jnwhiteh/vim-golang) --- vim plugins for golang.  
+14. [YouCompleteMe](https://github.com/Valloric/YouCompleteMe --- a code completion engine for vim.  
 
 # Blog(In Chinese) #
 1. How to use hahaya-vim:[http://hahaya.github.io/2013/07/29/build-YouCompleteMe.html](http://hahaya.github.io/2013/07/29/build-YouCompleteMe.html)
