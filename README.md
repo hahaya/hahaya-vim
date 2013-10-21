@@ -26,7 +26,7 @@ In order to use YouCompleteMe,you should build it first,please look this:[http:/
 11. [vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace) --- this plugin causes all trailing whitespace to be highlighted in red.  
 12. [vim-markdown](https://github.com/plasticboy/vim-markdown) --- syntax highlighting,matching rules and mappings for markdown.  
 13. [vim-golang](https://github.com/jnwhiteh/vim-golang) --- vim plugins for golang.  
-14. [YouCompleteMe](https://github.com/Valloric/YouCompleteMe --- a code completion engine for vim.  
+14. [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) --- a code completion engine for vim.  
 
 # Blog(In Chinese) #
 1. How to use hahaya-vim:[http://hahaya.github.io/2013/07/29/build-YouCompleteMe.html](http://hahaya.github.io/2013/07/29/build-YouCompleteMe.html)
