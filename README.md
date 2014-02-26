@@ -1,5 +1,5 @@
 # hahaya-vim #
-hahaya's vim setting and plugins,I use it on Linux,More information please look this:[http://hahaya.github.io/2013/10/21/vim-config.html](http://hahaya.github.io/2013/10/21/vim-config.html)
+hahaya's vim setting and plugins,I use it on Linux,More information please look this:[http://hahaya.github.io/hahaya-vim/](http://hahaya.github.io/hahaya-vim/)
 
 # Install/Useage #
         git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle  
@@ -10,7 +10,7 @@ hahaya's vim setting and plugins,I use it on Linux,More information please look 
         :BundleInstall  
 
 # Note #
-In order to use YouCompleteMe,you should build it first,please look this:[http://hahaya.github.io/2013/07/29/build-YouCompleteMe.html](http://hahaya.github.io/2013/07/29/build-YouCompleteMe.html)
+In order to use YouCompleteMe,you should build it first,please look this:[http://hahaya.github.io/build-YouCompleteMe/](http://hahaya.github.io/build-YouCompleteMe/)
 
 # Plugins #
 1. [vundle](https://github.com/gmarik/vundle) --- a vim plugin manager.  
@@ -29,7 +29,7 @@ In order to use YouCompleteMe,you should build it first,please look this:[http:/
 14. [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) --- a code completion engine for vim.  
 
 # Blog(In Chinese) #
-1. How to use hahaya-vim:[http://hahaya.github.io/2013/10/21/vim-config.html](http://hahaya.github.io/2013/10/21/vim-config.html)
-2. How to use vundle:[http://hahaya.github.io/2013/07/26/use-vundle.html](http://hahaya.github.io/2013/07/26/use-vundle.html)  
-3. build vim on ubuntu 12.04:[http://hahaya.github.io/2013/07/25/build-vim-on-ubuntu.html](http://hahaya.github.io/2013/07/25/build-vim-on-ubuntu.html)  
-4. build YouCompleteMe:[http://hahaya.github.io/2013/07/29/build-YouCompleteMe.html](http://hahaya.github.io/2013/07/29/build-YouCompleteMe.html)  
+1. How to use hahaya-vim:[http://hahaya.github.io/hahaya-vim/](http://hahaya.github.io/hahaya-vim/)
+2. How to use vundle:[http://hahaya.github.io/use-vundle/](http://hahaya.github.io/use-vundle/)  
+3. build vim on ubuntu 12.04:[http://hahaya.github.io/build-vim-on-ubuntu/](http://hahaya.github.io/build-vim-on-ubuntu/)  
+4. build YouCompleteMe:[http://hahaya.github.io/build-YouCompleteMe/](http://hahaya.github.io/build-YouCompleteMe/)  
