@@ -28,6 +28,9 @@ In order to use YouCompleteMe,you should build it first,please look this:[http:/
 13. [vim-golang](https://github.com/jnwhiteh/vim-golang) --- vim plugins for golang.  
 14. [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) --- a code completion engine for vim.  
 
+# Version #
+2014-3-19 添加git插件
+
 # Blog(In Chinese) #
 1. How to use hahaya-vim:[http://hahaya.github.io/hahaya-vim/](http://hahaya.github.io/hahaya-vim/)
 2. How to use vundle:[http://hahaya.github.io/use-vundle/](http://hahaya.github.io/use-vundle/)  
